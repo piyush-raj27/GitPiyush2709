@@ -6,3 +6,6 @@ remote repo
 stash
 ihf3i
 ievi3
+halle
+dmekf
+foenf
