@@ -4,3 +4,5 @@ staging area
 local repo
 remote repo
 stash
+ihf3i
+ievi3
